@@ -1,0 +1,20 @@
+/* mylogo is a class that is associated with img selector */
+img.mylogo{
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    margin-left: 0.7%;
+    margin-top: 0.7%;
+    left: 0;
+    position: absolute;
+    border: 0;
+    padding: 0;
+
+}
+/* brdr is a class that is associated with article selector */
+article.brdr {
+    border: 1px solid #000000;
+    padding: 0;
+    width: auto;
+    height: 100px;
+}
